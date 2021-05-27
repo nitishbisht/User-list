@@ -11,6 +11,16 @@ a {
   text-decoration: none;
 }
 
-* {
+* { 
   box-sizing: border-box;
+}
+.notfound {
+text-align: center;
+}
+.notfound a{
+
+text-decoration: underline;
+color:blue;
+
+
 }

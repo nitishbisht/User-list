@@ -48,6 +48,8 @@
   margin: 0;
   line-height: 1.15;
   font-size: 4rem;
+  
+
 }
 
 .title,
@@ -118,4 +120,22 @@
     width: 100%;
     flex-direction: column;
   }
+}
+.name {
+
+padding:2px 46px;
+background:#fafafa;
+display: block;
+margin: 20px 10px;
+border-left: 8px solid gold;
+
+
+}
+.name:hover{
+
+  border-left:8px solid purple;
+}
+.background{
+background-color:rgb(224, 185, 185) ;
+
 }
